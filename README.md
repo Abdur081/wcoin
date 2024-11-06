@@ -1,8 +1,9 @@
 # wcoin
 ##### a tool that helps to get unlimited amount of wcoin airdrop
-#### use Termux or Terminal  
 
 https://t.me/T4M_TEAM
+
+#### use Termux or Terminal  
 
  ``` 
  git clone https://github.com/elphador/wcoin.git
